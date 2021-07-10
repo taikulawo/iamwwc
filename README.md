@@ -6,9 +6,6 @@
 5. Node上手易学
 6. Rust刚开始学有点不舒服，现在熟练了后写起来是真爽
 
-
-![6QQIzerr_400x400](https://user-images.githubusercontent.com/24750337/125167053-22037b00-e1d1-11eb-9360-74250b452488.jpg)
-
 <!--
 **iamwwc/iamwwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
